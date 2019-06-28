@@ -1,0 +1,13 @@
+{
+    "name": "houruipeng/mycomposer",
+    "description": "this is my test composer package",
+	"type":"project",
+	"license":"MIT",
+	"authors":[
+		{
+			"name": "houruipeng",
+			"email": "565792893@qq.com",
+		}
+	]
+    "require": {}
+}
